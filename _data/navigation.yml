@@ -23,10 +23,10 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "About me"
-    url: /markdownME/
+  # - title: "About me"
+  #   url: /markdownME/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   
